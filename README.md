@@ -13,7 +13,7 @@ Docker<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemenOskolkov&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://linkedin.com/in/осколков-семен-48085b241" target="blank">
+<a href="https://linkedin.com/in/semen-oskolkov" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="осколков-семен-48085b241" height="30" width="40" />
 </a>
 <a href="https://t.me/oskolkov_ss" target="_blank">
